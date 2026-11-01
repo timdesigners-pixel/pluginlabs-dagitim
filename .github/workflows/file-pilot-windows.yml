@@ -13,7 +13,7 @@ permissions:
   contents: read
 env:
   SOURCE_REPO: timdesigners-pixel/PluginLabs
-  SOURCE_SHA: 0218d417de29b41cac9d51042caffd3a67ba8480
+  SOURCE_SHA: 1d9b500352273d5a51dc4678e0422c2da688e8a4
   APP_DIR: src/apps/03-masaustu-dosya-araclari-ve-widgetlar/PL-025-file-pilot/app
 jobs:
   windows:
