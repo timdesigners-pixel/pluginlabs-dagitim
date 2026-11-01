@@ -1,0 +1,8 @@
+name: File Pilot Windows sürümü
+on:
+  workflow_dispatch:
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo yer tutucu
