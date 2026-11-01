@@ -12,7 +12,7 @@ permissions:
   contents: read
 env:
   SOURCE_REPO: timdesigners-pixel/PluginLabs
-  SOURCE_SHA: 3b0412ad85765c11c249b724d195e41754279eb4
+  SOURCE_SHA: 915052288d10f7f7172daf1438017b2128144847
   APP_DIR: src/apps/03-masaustu-dosya-araclari-ve-widgetlar/PL-029-screenshot-studio/app
 jobs:
   windows:
