@@ -10,6 +10,7 @@ Her sürüm `<uygulama-kimliği>-v<sürüm>` etiketiyle yayımlanır (ör. `plug
 | Mind Palace | `mind-palace` | mind-palace |
 | Leo Helper | `leo-helper` | leo-helper |
 | PluginLabs Scrapper (PL-004) | `pluginlabs-scrapper` | the-ultimate-scrapper |
+| File Pilot (PL-025) | `file-pilot` | PluginLabs `apps/03-…/PL-025-file-pilot/app` (ürün deposu henüz yok; derleme bu depodaki `File Pilot Windows sürümü` iş akışında) |
 
 ## Doğrulama
 Her sürümde `SHA256SUMS.txt` bulunur. Dosyalar kaynak depodaki sürümle bayt bayt aynıdır. Paketler **imzasızdır**; Windows SmartScreen uyarı verebilir.
