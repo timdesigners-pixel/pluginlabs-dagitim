@@ -12,7 +12,7 @@ permissions:
   contents: read
 env:
   SOURCE_REPO: timdesigners-pixel/PluginLabs
-  SOURCE_SHA: 64941aede84be4abc1e66887a501ecd7a55f7b47
+  SOURCE_SHA: 74d097d51d366df88790824169daf6a1bea66521
   APP_DIR: src/apps/05-gelistirici-ve-profesyonel-araclar/PL-045-context-kit/app
 jobs:
   windows:
