@@ -12,7 +12,7 @@ permissions:
   contents: read
 env:
   SOURCE_REPO: timdesigners-pixel/PluginLabs
-  SOURCE_SHA: 6b6b47a5de393b137974b223ed9e81f7e2719ad4
+  SOURCE_SHA: 194e06a5f207c87761532c9d1c3ce6676e53f92c
   APP_DIR: src/apps/05-gelistirici-ve-profesyonel-araclar/PL-046-model-switchboard/app
 jobs:
   windows:
